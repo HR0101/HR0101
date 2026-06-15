@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm HR 👋
 
-<!--
-**HR0101/HR0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Swift と TypeScript を中心に学習中の学生です．アプリ開発と Web に興味があり，手を動かしながら少しずつ作れるものを増やしています．
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🌱 Currently
+
+- iOS / macOS アプリ開発（Swift, Xcode）を学習中
+- Web フロントエンド（JavaScript / TypeScript）に挑戦中
+- 作ったものを少しずつ GitHub に公開していきます
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HR0101&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR0101&layout=compact&hide_border=true)
