@@ -1,10 +1,11 @@
-# Hi there, I'm HR 👋
+### About Me
 
-Swift と TypeScript を中心に学習中の学生です．アプリ開発と Web に興味があり，手を動かしながら少しずつ作れるものを増やしています．
+- Chiba Institute of Technology — B3
+- I love 
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -15,15 +16,7 @@ Swift と TypeScript を中心に学習中の学生です．アプリ開発と W
 
 ---
 
-### 🌱 Currently
-
-- iOS / macOS アプリ開発（Swift, Xcode）を学習中
-- Web フロントエンド（JavaScript / TypeScript）に挑戦中
-- 作ったものを少しずつ GitHub に公開していきます
-
----
-
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=HR0101&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HR0101&layout=compact&hide_border=true)
