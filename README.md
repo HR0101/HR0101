@@ -19,4 +19,4 @@
 ###  GitHub Stats
 
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HR0101&layout=compact&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HR0101&layout=compact&hide_border=true&v=1)
